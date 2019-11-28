@@ -1,0 +1,15 @@
+#What can you do with Pyton?
+ #1 Web Development => {Django and Flask webframwork}
+ #2 Machine Larning => {e.g developing a program that recognize what is in the picture | Face Recognition | Voice Recognition}
+	--Popolar ML algorithms => {Neural network, Deep learning, Support vector machines, Random forest}
+	--Popular machine learning libraries => {Scikit-learn, TensorFlow}
+	--Course at coursera => {Stanford's or Caltech's ML course or kaggle.com}
+ #3 Data Analysis/Visualizatio =>{Graphical representation of sales volume by male and female on a perticular day of a product of a company}
+	--Popular Data Visualization libraries => {Matplotlib, Seaborn}
+ #4 Scripting => {It referse to writing a small program that is design to automate simple task e.g counting the numbers of email containg certain keywords}
+ #5 Game Development
+	--Popular game development libraries => {Pygame}
+ #6 Desktop Application
+	--Popular desktop application libraries => {Tkinter, QT}: Javascript is more recomended to build this kind of application.
+ #7 Embedded Application => {Python work well with Raspberry Pi: popular application for hardware hobbyists}
+
